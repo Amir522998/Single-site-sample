@@ -1,0 +1,6 @@
+{
+  "name": "نوین‌تک | فروشگاه آنلاین تکنولوژی",
+  "description": "فروشگاه تخصصی محصولات دیجیتال، گوشی موبایل، لپ‌تاپ و گجت‌های هوشمند با ضمانت اصالت و ارسال سریع.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
